@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3edf53aa-983e-460c-8f66-2ff43e1211f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/application.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/url_mappings.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/ping/ping_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controllers/users/users_controller.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/users/user_dao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/domain/users/user_dto.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/users_service.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/errors/rest_error.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hNg0eGoF2RbjGje5rwgvkWrCj0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build github.com/panoskts/bookstore_users-api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_users-api" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/panoskts/bookstore_users-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/panoskts/bookstore_users-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3edf53aa-983e-460c-8f66-2ff43e1211f4" name="Default Changelist" comment="" />
+      <created>1599856741419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599856741419</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="166" key="GridCell.Tab.0.bottom" timestamp="1600199747652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.bottom/0.0.1536.824/-1280.64.1280.984@-1280.64.1280.984" timestamp="1600179280272" />
+    <state width="1493" height="166" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600199747652" />
+    <state width="1493" height="166" key="GridCell.Tab.0.center" timestamp="1600199747651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.center/0.0.1536.824/-1280.64.1280.984@-1280.64.1280.984" timestamp="1600179280272" />
+    <state width="1493" height="166" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600199747651" />
+    <state width="1493" height="166" key="GridCell.Tab.0.left" timestamp="1600199747650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.left/0.0.1536.824/-1280.64.1280.984@-1280.64.1280.984" timestamp="1600179280271" />
+    <state width="1493" height="166" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600199747650" />
+    <state width="1493" height="166" key="GridCell.Tab.0.right" timestamp="1600199747652">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1237" height="177" key="GridCell.Tab.0.right/0.0.1536.824/-1280.64.1280.984@-1280.64.1280.984" timestamp="1600179280272" />
+    <state width="1493" height="166" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600199747652" />
+    <state x="-1143" y="201" key="SettingsEditor" timestamp="1600086314198">
+      <screen x="-1280" y="64" width="1280" height="984" />
+    </state>
+    <state x="-1143" y="201" key="SettingsEditor/0.0.1536.824/-1280.64.1280.984@-1280.64.1280.984" timestamp="1600086314198" />
+    <state x="-937" y="109" width="586" height="894" key="find.popup" timestamp="1600085707688">
+      <screen x="-1280" y="64" width="1280" height="984" />
+    </state>
+    <state x="-937" y="109" width="586" height="894" key="find.popup/0.0.1536.824/-1280.64.1280.984@-1280.64.1280.984" timestamp="1600085707688" />
+    <state x="29" y="145" key="search.everywhere.popup" timestamp="1599861700628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="29" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1599861700628" />
+  </component>
+</project>
